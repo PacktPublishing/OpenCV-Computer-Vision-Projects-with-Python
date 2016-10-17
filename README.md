@@ -1,5 +1,6 @@
 # OpenCV-Computer-Vision-Projects-with-Python
 This is the code repository for OpenCV-Computer-Vision-Projects-with-Python, published by Packt. It contains all the necessary code files.
+## What You Will Learn:
 * Install OpenCV and related software such as Python, NumPy, SciPy, OpenNI, and SensorKinect - all on Windows, Mac or Ubuntu
 * Apply “curves” and other color transformations to simulate the look of old photos, movies, or video games
 * Apply geometric transformations to images, perform image filtering, and convert an image into a cartoon-like image
