@@ -1,0 +1,1 @@
+The install_opencv_ubuntu.sh script and ports.tar.gz MacPorts repository are in this directory and are also available on my website: http://nummist.com/opencv/install_opencv_ubuntu.sh and http://nummist.com/opencv/ports.tar.gz.
