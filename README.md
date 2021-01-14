@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/opencv-computer-vision-projects-with-python/9781787125490)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # OpenCV Computer Vision Projects with Python
 This is the code repository for OpenCV-Computer-Vision-Projects-with-Python, published by Packt. It contains all the necessary code files.
 ## What You Will Learn:
